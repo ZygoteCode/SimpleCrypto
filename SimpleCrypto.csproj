@@ -50,8 +50,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="SimpleAES.cs" />
+    <Compile Include="SimpleBlowfish.cs" />
+    <Compile Include="SimpleDES.cs" />
     <Compile Include="SimpleRandom.cs" />
     <Compile Include="SimpleRSA.cs" />
+    <Compile Include="SimpleTripleDES.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
